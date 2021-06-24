@@ -1,6 +1,6 @@
 # Installation
 
-[IntelliAda](https://github.com/bloxbean/intelliada) plugin is available on JetBrain's official plugin marketplace. You can install this plugin directly from your IntelliJ IDE.
+[IntelliAda](https://github.com/bloxbean/intelliada) plugin is available in JetBrain's official plugin marketplace. You can install this plugin directly from your IntelliJ IDE.
 
 **Supported IntelliJ version  \(2021.1 and above\)**
 
