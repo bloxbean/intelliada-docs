@@ -6,7 +6,7 @@ The following account management features are currently supported
 * Import an account from 24w mnemonic phrase
 * Import an account as "read-only" \(watch-only\)
 * List all accounts
-* Fetch balance for all accounts
+* Fetch balance of all accounts
 * Get account details \( Ada / Native token balance, recent transactions, utxos\)
 
 ### Open Account Management UI
@@ -38,7 +38,7 @@ In account management ui,
 
 * Click "Import Existing"
 * Select the network \(testnet/mainnet\)
-* Enter mnemonic
+* Enter 24w mnemonic phrase
 * Click "Ok"
 
 **Note:** An external account can also be imported as a "read-only" account. In that case, you just need to provide the address.  
@@ -50,14 +50,14 @@ In account management ui,
 ### Copy Address
 
 * Double click on the address column to copy the address
-* Alternative, select the row, right click -&gt; Copy Address
+* Alternatively, select the row, right click -&gt; Copy Address
 
 ![](.gitbook/assets/acct-mgmt-copyaddress.gif)
 
-Account Details
+### Account Details
 
-* Double click on the account address to open "Account Details" UI for the address
-* Account details UI shows Ada balance and native tokens balances.
+* Double click on the account name to open "Account Details" UI for the address
+* Account details UI shows Ada balance and native token balances.
 * The bottom panel in "Account details" UI shows recent transactions for the address.
 * Select a transaction hash and double-click to see the transaction and metadata details.
 * Click on "Show Utxos" to see the available utxos for the address.

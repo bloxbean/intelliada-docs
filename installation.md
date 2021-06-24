@@ -1,6 +1,6 @@
 # Installation
 
-IntelliAda plugin is available on JetBrain's official plugin marketplace. You can install this plugin directly from your IntelliJ IDE.
+[IntelliAda](https://github.com/bloxbean/intelliada) plugin is available on JetBrain's official plugin marketplace. You can install this plugin directly from your IntelliJ IDE.
 
 **Supported IntelliJ version  \(2021.1 and above\)**
 
@@ -20,7 +20,7 @@ The plugin uses [cardano-client-lib ](https://github.com/bloxbean/cardano-client
 
 For any other operating systems, please create a request [here](https://github.com/bloxbean/cardano-client-lib/issues).
 
-**Installation**
+### **Installation**
 
 1. Go to Preferences &gt; Plugins or File &gt; Settings &gt; Plugins
 2. Search "IntelliAda" in Marketplace tab
