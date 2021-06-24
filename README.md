@@ -1,17 +1,31 @@
-# Introduction
+# Overview
 
-IntelliAda is an IntelliJ IDEA plugin for Cardano blockchain. Using this plugin developers can interact with Cardano blockchain directly from their IDE. In the current version of this plugin, developers can mint native tokens, transfer Ada / Native tokens from one address to another inside their IDE. This plugin doesn't provide any stake pool management related features.
+IntelliAda is an IntelliJ plugin for Cardano blockchain. Using this plugin developers can interact with Cardano blockchain directly from their IDE. In the current version of this plugin, developers can mint native tokens, transfer Ada / Native tokens from one address to another inside their IDE. This plugin doesn't provide any stake pool management related features.
+
+**GitHub**: [https://github.com/bloxbean/intelliada](https://github.com/bloxbean/intelliada)
 
 **Features** 
 
-* Account Management \(Create, Import\) 
-* Transfer transaction \(Ada, Native Tokens\) 
-* Native Token Minting 
+* Account Management
+  * Create new testnet/mainnet accounts
+  * Import an account by providing 24w mnemonic phrase
+* Transfer transaction
+  * Transfer Ada or any native tokens
+* Native Token Minting
 * Script Management
-*  Metadata support \(JSON Editor, Metadata Editor\)
-*  View transactions
-*  Utxo explorer to view and select specific utxos for a transaction
-*  Blockfrost integration
+  * Create script \(sig, all, any, atLeast, after, before\)
+  * Use policy scripts while minting new native tokens
+* Metadata support
+  * Add metdata to the transaction
+  * Supports raw json
+  * Metadata editor to build metadata
+  * Metadata templates
+* View transactions
+* Utxo explorer
+  * View utxos of a specific address
+  * Select utxos during transaction submission \(Optional\)
+* Blockfrost integration
+  * Integrates with Blockfrost Cardano Api
 
 
 
