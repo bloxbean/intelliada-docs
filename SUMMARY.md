@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Installation](installation.md)
 * [Installation](installation-1.md)
 * [Installation - Manual](installation-manual.md)
 * [Cardano Node Configuration](cardano-node-configuration.md)
