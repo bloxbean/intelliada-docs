@@ -4,4 +4,5 @@
 * [Installation](installation.md)
 * [Installation - Manual](installation-manual.md)
 * [Cardano Node Configuration](cardano-node-configuration.md)
+* [Account Management](account-management.md)
 
