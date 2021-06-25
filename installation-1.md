@@ -4,7 +4,7 @@
 
 [https://plugins.jetbrains.com/plugin/17109-intelliada-cardano-integration](https://plugins.jetbrains.com/plugin/17109-intelliada-cardano-integration)
 
-**Supported IntelliJ version  \(2021.1 and above\)**
+### **Supported IntelliJ version  \(2021.1 and above\)**
 
 * IntelliJ IDEA
 * PyCharm

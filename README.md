@@ -6,6 +6,8 @@ In the current version, plugin provides integration with Blockfrost Cardano Api.
 
 **GitHub**: [https://github.com/bloxbean/intelliada](https://github.com/bloxbean/intelliada)
 
+**Plugin page:**  [https://plugins.jetbrains.com/plugin/17109-intelliada-cardano-integration](https://plugins.jetbrains.com/plugin/17109-intelliada-cardano-integration)
+
 **Features** 
 
 * Account Management
