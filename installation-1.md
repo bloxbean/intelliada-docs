@@ -2,6 +2,8 @@
 
 [IntelliAda](https://github.com/bloxbean/intelliada) plugin is available in JetBrain's official plugin marketplace. You can install this plugin directly from your IntelliJ IDE.
 
+[https://plugins.jetbrains.com/plugin/17109-intelliada-cardano-integration](https://plugins.jetbrains.com/plugin/17109-intelliada-cardano-integration)
+
 **Supported IntelliJ version  \(2021.1 and above\)**
 
 * IntelliJ IDEA
