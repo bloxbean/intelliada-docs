@@ -26,5 +26,7 @@ For any other operating systems, please create a request [here](https://github.c
 2. Search "IntelliAda" in Marketplace tab
 3. Click "Install"
 
+![](.gitbook/assets/installation.gif)
+
 
 
