@@ -24,7 +24,19 @@ The following account management features are currently supported
 
 ![](.gitbook/assets/account-mgmt-newaccount.gif)
 
-###  Fetch Balance
+### _**Important Note**:_ 
+
+Account management UI also allows you to create a Mainnet account. Account mnemonic phrase is stored in an encrypted format in the local filesystem. But for better developer experience, the encryption key is also stored in the local filesystem. So that the developer doesn't need to enter encryption password during development time.
+
+So it's **not** recommended to import/store any Mainnet account with significant Ada holding. 
+
+Alternatively, if you want to do a Mainnet transaction, you can enter mnemonic phrase in Transfer UI or Token Minting UI directly. The mnemonic entered in those cases are not stored and just used for that specific transaction.
+
+### Get Testnet Ada token
+
+To get some Testnet Ada token, please check [Cardano Testnet Faucet](https://developers.cardano.org/en/testnets/cardano/tools/faucet/).
+
+### Fetch Balance
 
 The account management screen shows all the created or imported accounts. You can also fetch balances of all the accounts by clicking the "Fetch Balance" button.
 
