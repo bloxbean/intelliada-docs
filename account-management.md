@@ -24,7 +24,7 @@ The following account management features are currently supported
 
 ![](.gitbook/assets/account-mgmt-newaccount.gif)
 
-### _**Important Note**:_ 
+### _**Important Note**_: 
 
 Account management UI also allows you to create a Mainnet account. Account mnemonic phrase is stored in an encrypted format in the local filesystem. But for better developer experience, the encryption key is also stored in the local filesystem. So that the developer doesn't need to enter encryption password during development time.
 
